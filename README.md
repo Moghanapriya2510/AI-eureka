@@ -6,5 +6,5 @@
     🐬opencv command :-   pip install opencv-python
     🐬numpy command  :-   pip install numpy
     🐬matplotlib command  :-   pip install matplotlib
-🎏 These libraries are used to process the image with the respective syntax
-🎏 Learn how to use these libraries and dive into the world of AI using opencv
+🎏These libraries are used to process the image with the respective syntax
+🎏Learn how to use these libraries and dive into the world of AI using opencv
